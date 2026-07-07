@@ -107,11 +107,10 @@ Please open a GitHub Issue with:
 
 This project is proprietary software.
 
-Copyright © 2026 Meydhi.
+Copyright © 2026 Meydhi Ari Nugroho.
 All Rights Reserved.
 
-This repository is provided for demonstration and collaboration purposes only.
-Unauthorized copying, redistribution, or commercial use is prohibited without permission.
+See the LICENSE file for details.
 
 ---
 
