@@ -107,7 +107,7 @@ Please open a GitHub Issue with:
 
 This project is proprietary software.
 
-Copyright © 2026 Meydhi Ari Nugroho.
+Copyright © 2026 Meydhi.
 All Rights Reserved.
 
 See the LICENSE file for details.
